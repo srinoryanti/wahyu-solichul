@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Wahyu &amp; Solichul">
+  <defs>
+    <linearGradient id="sejuk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dceaf2"/>
+      <stop offset=".47" stop-color="#eff6fa"/>
+      <stop offset="1" stop-color="#fafcfd"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#sejuk)"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="10" fill="none" stroke="#6f9080" stroke-opacity=".7"/>
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="17" y="40.5" font-size="24" fill="#274456">W</text>
+    <text x="32" y="39.5" font-size="11" font-style="italic" fill="#6f9080">&amp;</text>
+    <text x="47" y="40.5" font-size="24" fill="#274456">S</text>
+  </g>
+</svg>
